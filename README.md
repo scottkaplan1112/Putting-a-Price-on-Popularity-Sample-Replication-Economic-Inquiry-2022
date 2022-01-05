@@ -7,14 +7,14 @@ Folder Contents
 3.	Filename: Aggregate_DID_HomeVsAway_StephenCurry.R
 4.	Filename: EventStudy_StephenCurry.R
 
-File 1: StephenCurryData.RData
+**File 1: StephenCurryData.RData**
 This is the data file needed to perform the replication analysis for Stephen Curry.
 
-File 2: Aggregate_DID_StephenCurry.R
+**File 2: Aggregate_DID_StephenCurry.R**
 This file performs the aggregate difference-in-differences analysis found in Figure 5 of the main text. It provides replication code for the “percent change” aggregate DID analysis for Stephen Curry.
 
-File 3: Aggregate_DID_HomeVsAway_StephenCurry.R
+**File 3: Aggregate_DID_HomeVsAway_StephenCurry.R**
 This file performs the aggregate difference-in-differences analysis separating between home vs. away effect found in Figure 17 of Appendix B. It provides replication code for the “percent change” home vs. away aggregate DID analysis for Stephen Curry (the “$” change effects are found in Figure 8 in the main text). 
 
-File 4: EventStudy_StephenCurry.R
+**File 4: EventStudy_StephenCurry.R**
 This file performs the event study analysis found in Figures 9 and 10 of the main text, which estimates equation (6) from the main text. It provides replication code for Stephen Curry.
